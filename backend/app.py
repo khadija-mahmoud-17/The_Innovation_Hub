@@ -13,7 +13,7 @@ from random import randint
 # Flask Setup
 # -------------------------
 app = Flask(__name__, static_folder="../frontend/build", static_url_path="/")
-app.config['SECRET_KEY'] = 'your-super-secret-key'
+app.config['SECRET_KEY'] = '123123123'
 CORS(app, supports_credentials=True)
 bcrypt = Bcrypt(app)
 s = URLSafeTimedSerializer(app.config['SECRET_KEY'])
