@@ -16,7 +16,7 @@ This is a full-stack web application developed as part of a student group projec
 
 ## 📽️ Website Preview
 
-▶️ [Click here to watch the CWS demo video](cws-rec_S5WP6dHV.mp4)
+▶️ [Click here to watch the CWS demo video](CWS-Rec.mp4)
 
 ## 🛠 Tech Stack
 
@@ -48,6 +48,8 @@ coworking-space-app/
 │   ├── src/
 │   ├── .env
 │   └── ...
+├── CWS-Rec.mp4            # Website preview video
+├── CORS Report.docx       # Summary of CORS errors encountered in Codespaces
 └── README.md
 ```
 
@@ -126,10 +128,10 @@ A test route `/api/test-cors` is available to check if cross-origin requests are
 
 ## 🧠 Known Issues
 
-* CORS errors can happen due to GitHub Codespaces proxying and authentication settings.
+* CORS errors were encountered during testing and deployment within GitHub Codespaces. These included preflight rejections, missing headers, and origin mismatches between ports.
+* A detailed explanation and documentation of these issues and the troubleshooting steps attempted are provided in the attached document: **`CORS Report.docx`**.
 * Email sending may delay or fail if SMTP is not configured properly.
-* Codespace deployment may not always reflect changes unless hard-reloaded.
-* Deployment was impacted due to teammate delays and limited final hours for integration and error fixes.
+* Deployment was delayed due to late teammate contributions; work was only received on **13/07/2025**, leaving limited time for integration and error resolution.
 
 ## 🔗 Project Links
 
@@ -138,6 +140,3 @@ A test route `/api/test-cors` is available to check if cross-origin requests are
 ## 📬 Contact
 
 For any questions or feedback, please use the contact form in the application or open an issue on the GitHub repository.
-
----
-
