@@ -18,10 +18,7 @@ This is a full-stack web application developed as part of a student group projec
 
 ## 📽️ Website Preview
 
-<video width="100%" controls>
-  <source src="CWS-Rec.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+▶️ [Click here to watch the CWS demo video](CWS-Rec.mp4)
 
 ## 🛠 Tech Stack
 
