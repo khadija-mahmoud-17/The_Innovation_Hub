@@ -16,6 +16,13 @@ This is a full-stack web application developed as part of a student group projec
 * 📄 View and manage user bookings
 * 💬 Contact form for inquiries
 
+## 📽️ Website Preview
+
+Below is a short demo video displaying key features of the platform:
+
+https://github.com/khadija-mahmoud-17/The_Innovation_Hub/CWS-Rec
+
+
 ## 🛠 Tech Stack
 
 **Frontend:**
