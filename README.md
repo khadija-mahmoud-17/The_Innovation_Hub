@@ -132,6 +132,7 @@ A test route `/api/test-cors` is available to check if cross-origin requests are
 * A detailed explanation and documentation of these issues and the troubleshooting steps attempted are provided in the attached document: **`CORS Report.docx`**.
 * Email sending may delay or fail if SMTP is not configured properly.
 * Deployment was delayed due to late teammate contributions; work was only received on **13/07/2025**, leaving limited time for integration and error resolution.
+
 The GitHub repository containing the Codespace project can be accessed at: https://github.com/khadija-mahmoud-17/coworking-space-app 
 ## 🔗 Project Links
 
