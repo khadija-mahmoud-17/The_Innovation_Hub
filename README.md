@@ -1,6 +1,4 @@
-Absolutely! Here is the full README content in one text block for you to copy and paste directly:
 
----
 
 # 🏢 The Innovation Hub - Coworking Space Web App
 
