@@ -18,10 +18,10 @@ This is a full-stack web application developed as part of a student group projec
 
 ## 📽️ Website Preview
 
-Below is a short demo video displaying key features of the platform:
-
-https://github.com/khadija-mahmoud-17/The_Innovation_Hub/CWS-Rec
-
+<video width="100%" controls>
+  <source src="CWS-Rec.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🛠 Tech Stack
 
