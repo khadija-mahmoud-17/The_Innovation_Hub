@@ -18,7 +18,7 @@ This is a full-stack web application developed as part of a student group projec
 
 ## 📽️ Website Preview
 
-▶️ [Click here to watch the CWS demo video](CWS-Rec.mp4)
+▶️ [Click here to watch the CWS demo video](cws-rec_S5WP6dHV.mp4)
 
 ## 🛠 Tech Stack
 
